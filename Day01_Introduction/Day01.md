@@ -47,9 +47,3 @@ I completed the Day 1 exercise by:
 - Printing results and messages with `print()`
 - Checking data types with `type()`
 - Writing clear comments to explain my steps and thought process
-
-## How to run my code
-
-From the project root directory, run:
-
-
