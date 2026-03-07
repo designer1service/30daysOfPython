@@ -216,7 +216,7 @@ print(floor_num)
 # it is the same
 
 # 19. Check if type of '10' is equal to type of 10
-# it is not equal one is string and other one integer
+# it is not equal one is )= string and other one integer 
 
 # 20. Check if int('9.8') is equal to 10
 print(int(9.8)==10) #false
