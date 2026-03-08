@@ -1,5 +1,4 @@
 
-"""
 # Creating a string
 letter = 'p'
 print(letter)
@@ -193,7 +192,7 @@ print(string_upper.swapcase())
 
 print(remove_text.startswith('thir')) # True
 print(remove_text.startswith('days')) # False
-"""
+
 # Exercises - Day 4
 
 # 1 Concatenate the string 'Thirty', 'Days', 'Of', 'Python' to a single string, 'Thirty Days Of Python'.
@@ -350,3 +349,4 @@ print(f"{a} / {b} = {(a/b):.2f}")
 print(f"{a} % {b} = {a%b}")
 print(f"{a} // {b} = {a//b}")
 print(f"{a} ** {b} = {a**b}")
+
