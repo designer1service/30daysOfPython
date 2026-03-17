@@ -143,13 +143,14 @@ def list_of_hexa_colors(number):
         hexa_list.append(f'#{r:02x}{g:02x}{b:02x}')
     return hexa_list
 
-def generate_colors(name,number):
+def generate_colors(name, number):
     if name.lower() == 'rgb':
-        print(list_of_rgb_colors(number))
+        return list_of_rgb_colors(number)
     elif name.lower() == 'hexa':
-        print(list_of_hexa_colors(number))
+        return list_of_hexa_colors(number)
     else:
-        print('wrong name haha run again')
+        raise ValueError("name must be 'rgb' or 'hexa'")
+
 
 
 generate_colors('hexa', 3) # ['#a3e12f','#03ed55','#eb3d2b'] 
