@@ -18,3 +18,30 @@ I used the `date` class to work only with calendar dates, created a `date(2020, 
 ## Practical exercises  
 
 In the exercises, I repeated the process of extracting the current date components and timestamp, then formatted them as strings using `strftime`.  I parsed a date string into a `datetime` object and confirmed its type, then calculated how many days remain until the start of 2027 using `date` subtraction.  Finally, I computed the difference in days between today’s date and a fixed past date (1 January 1970), which reinforced how to combine parsing, conversion to `date`, and date arithmetic. 
+
+| Directive| Description                                      | Example                 |
+|----------|--------------------------------------------------|-------------------------|
+| %a       | Weekday, short version                           | Wed                     |
+| %A       | Weekday, full version                            | Wednesday               |
+| %w       | Weekday as a number 0–6, 0 is Sunday             | 3                       |
+| %d       | Day of month 01–31                               | 31                      |
+| %b       | Month name, short version                        | Dec                     |
+| %B       | Month name, full version                         | December                |
+| %m       | Month as a number 01–12                          | 12                      |
+| %y       | Year, short version, without century             | 18                      |
+| %Y       | Year, full version                               | 2018                    |
+| %H       | Hour 00–23                                       | 17                      |
+| %I       | Hour 00–12                                       | 05                      |
+| %p       | AM/PM                                            | PM                      |
+| %M       | Minute 00–59                                     | 41                      |
+| %S       | Second 00–59                                     | 08                      |
+| %f       | Microsecond 000000–999999                        | 548513                  |
+| %z       | UTC offset                                       | +0100                   |
+| %Z       | Timezone                                         | CST                     |
+| %j       | Day number of year 001–366                       | 365                     |
+| %U       | Week number of year, Sunday as first day, 00–53  | 52                      |
+| %W       | Week number of year, Monday as first day, 00–53  | 52                      |
+| %c       | Local version of date and time                   | Mon Dec 31 17:41:00 2018|
+| %x       | Local version of date                            | 12/31/18                |
+| %X       | Local version of time                            | 17:41:00                |
+| %%       | A % character                                    | %                       |
