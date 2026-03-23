@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Asabeneh",
+        "country": "Finland",
+        "city": "Helsinki",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    },
+    {
+        "name": "Luka",
+        "country": "Croatia",
+        "city": "Unknown",
+        "skills": [
+            "JavaScrip",
+            "React",
+            "Python"
+        ]
+    }
+]
