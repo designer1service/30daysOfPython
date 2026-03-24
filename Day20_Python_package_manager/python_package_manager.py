@@ -188,3 +188,50 @@ print(max(life_list))
 print(statistics.mean(life_list))
 print(statistics.median(life_list))
 print(statistics.stdev(life_list))
+
+url = 'https://api.thecatapi.com/v1/breeds'  
+response = requests.get(url)  
+print(response) 
+print(response.status_code)  
+cats = response.json()
+breed_country = {}
+for cat in cats:
+    country = cat['origin']
+    if country not in breed_country:
+        breed_country[country] = 1
+    else:
+        breed_country[country] += 1
+print(breed_country)
+
+# 3
+url = 'https://restcountries.com/v3.1/all?fields=name,population,area,languages'
+response = requests.get(url)  
+print(response) 
+print(response.status_code)  
+countries = response.json()
+sorted_data = sorted(countries, key=lambda x:x['area'],reverse = True)
+result = []
+for country in sorted_data:
+    result.append({
+        'country': country['name']['official'],
+        'area': country['area']
+        })
+print(result[:10])
+
+url = 'https://restcountries.com/v3.1/all?fields=name,population,area,languages'
+response = requests.get(url)  
+print(response) 
+print(response.status_code)  
+countries = response.json()
+lang_dict = {}
+for country in countries:
+    for lang in country['languages'].values():
+        if lang not in lang_dict:
+            lang_dict[lang] = 1
+        else:
+            lang_dict[lang] += 1
+lang_dict = sorted(lang_dict.items(), key=lambda x:x[1], reverse=True)
+print(lang_dict[:10])
+
+total_languages = len(lang_dict)
+print(total_languages)
