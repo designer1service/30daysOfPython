@@ -1,0 +1,682 @@
+{
+  "presidents": [
+    {
+      "name": "George Washington",
+      "number": 1,
+      "terms": [
+        {
+          "term_text": "April 30, 1789 – March 4, 1797",
+          "party": "Unaffiliated",
+          "elections": [
+            "1788–89",
+            "1792"
+          ],
+          "vice_president": "John Adams [ c ]"
+        }
+      ]
+    },
+    {
+      "name": "John Adams",
+      "number": 2,
+      "terms": [
+        {
+          "term_text": "March 4, 1797 – March 4, 1801",
+          "party": "Federalist",
+          "elections": [
+            "1796"
+          ],
+          "vice_president": "Thomas Jefferson [ d ]"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Jefferson",
+      "number": 3,
+      "terms": [
+        {
+          "term_text": "March 4, 1801 – March 4, 1809",
+          "party": "Democratic- Republican",
+          "elections": [
+            "1800",
+            "1804"
+          ],
+          "vice_president": "Aaron Burr"
+        }
+      ]
+    },
+    {
+      "name": "James Madison",
+      "number": 4,
+      "terms": [
+        {
+          "term_text": "March 4, 1809 – March 4, 1817",
+          "party": "Democratic- Republican",
+          "elections": [
+            "1808",
+            "Vacant after April 20, 1812",
+            "1812",
+            "Vacant after November 23, 1814"
+          ],
+          "vice_president": "George Clinton [ e ]"
+        }
+      ]
+    },
+    {
+      "name": "James Monroe",
+      "number": 5,
+      "terms": [
+        {
+          "term_text": "March 4, 1817 – March 4, 1825",
+          "party": "Democratic- Republican",
+          "elections": [
+            "1816",
+            "1820"
+          ],
+          "vice_president": "Daniel D. Tompkins"
+        }
+      ]
+    },
+    {
+      "name": "John Quincy Adams",
+      "number": 6,
+      "terms": [
+        {
+          "term_text": "March 4, 1825 – March 4, 1829",
+          "party": "Democratic- Republican [ f ]",
+          "elections": [
+            "1824"
+          ],
+          "vice_president": "John C. Calhoun [ g ]"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Jackson",
+      "number": 7,
+      "terms": [
+        {
+          "term_text": "March 4, 1829 – March 4, 1837",
+          "party": "Democratic",
+          "elections": [
+            "1828",
+            "Vacant after December 28, 1832",
+            "1832"
+          ],
+          "vice_president": "John C. Calhoun [ h ]"
+        }
+      ]
+    },
+    {
+      "name": "Martin Van Buren",
+      "number": 8,
+      "terms": [
+        {
+          "term_text": "March 4, 1837 – March 4, 1841",
+          "party": "Democratic",
+          "elections": [
+            "1836"
+          ],
+          "vice_president": "Richard Mentor Johnson"
+        }
+      ]
+    },
+    {
+      "name": "William Henry Harrison",
+      "number": 9,
+      "terms": [
+        {
+          "term_text": "March 4, 1841 – April 4, 1841 [ e ]",
+          "party": "Whig",
+          "elections": [
+            "1840"
+          ],
+          "vice_president": "John Tyler"
+        }
+      ]
+    },
+    {
+      "name": "John Tyler",
+      "number": 10,
+      "terms": [
+        {
+          "term_text": "April 4, 1841 [ i ] – March 4, 1845",
+          "party": "Whig [ j ]",
+          "elections": [
+            "–"
+          ],
+          "vice_president": "Vacant throughout presidency"
+        }
+      ]
+    },
+    {
+      "name": "James K. Polk",
+      "number": 11,
+      "terms": [
+        {
+          "term_text": "March 4, 1845 – March 4, 1849",
+          "party": "Democratic",
+          "elections": [
+            "1844"
+          ],
+          "vice_president": "George M. Dallas"
+        }
+      ]
+    },
+    {
+      "name": "Zachary Taylor",
+      "number": 12,
+      "terms": [
+        {
+          "term_text": "March 4, 1849 – July 9, 1850 [ e ]",
+          "party": "Whig",
+          "elections": [
+            "1848"
+          ],
+          "vice_president": "Millard Fillmore"
+        }
+      ]
+    },
+    {
+      "name": "Millard Fillmore",
+      "number": 13,
+      "terms": [
+        {
+          "term_text": "July 9, 1850 [ k ] – March 4, 1853",
+          "party": "Whig",
+          "elections": [
+            "–"
+          ],
+          "vice_president": "Vacant throughout presidency"
+        }
+      ]
+    },
+    {
+      "name": "Franklin Pierce",
+      "number": 14,
+      "terms": [
+        {
+          "term_text": "March 4, 1853 – March 4, 1857",
+          "party": "Democratic",
+          "elections": [
+            "1852",
+            "Vacant after April 18, 1853"
+          ],
+          "vice_president": "William R. King [ e ]"
+        }
+      ]
+    },
+    {
+      "name": "James Buchanan",
+      "number": 15,
+      "terms": [
+        {
+          "term_text": "March 4, 1857 – March 4, 1861",
+          "party": "Democratic",
+          "elections": [
+            "1856"
+          ],
+          "vice_president": "John C. Breckinridge"
+        }
+      ]
+    },
+    {
+      "name": "Abraham Lincoln",
+      "number": 16,
+      "terms": [
+        {
+          "term_text": "March 4, 1861 – April 15, 1865 [ e ]",
+          "party": "Republican",
+          "elections": [
+            "1860"
+          ],
+          "vice_president": "Hannibal Hamlin"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Johnson",
+      "number": 17,
+      "terms": [
+        {
+          "term_text": "April 15, 1865 [ m ] – March 4, 1869",
+          "party": "National Union [ n ]",
+          "elections": [
+            "–"
+          ],
+          "vice_president": "Vacant throughout presidency"
+        }
+      ]
+    },
+    {
+      "name": "Ulysses S. Grant",
+      "number": 18,
+      "terms": [
+        {
+          "term_text": "March 4, 1869 – March 4, 1877",
+          "party": "Republican",
+          "elections": [
+            "1868",
+            "1872",
+            "Vacant after November 22, 1875"
+          ],
+          "vice_president": "Schuyler Colfax"
+        }
+      ]
+    },
+    {
+      "name": "Rutherford B. Hayes",
+      "number": 19,
+      "terms": [
+        {
+          "term_text": "March 4, 1877 – March 4, 1881",
+          "party": "Republican",
+          "elections": [
+            "1876"
+          ],
+          "vice_president": "William A. Wheeler"
+        }
+      ]
+    },
+    {
+      "name": "James A. Garfield",
+      "number": 20,
+      "terms": [
+        {
+          "term_text": "March 4, 1881 – September 19, 1881 [ e ]",
+          "party": "Republican",
+          "elections": [
+            "1880"
+          ],
+          "vice_president": "Chester A. Arthur"
+        }
+      ]
+    },
+    {
+      "name": "Chester A. Arthur",
+      "number": 21,
+      "terms": [
+        {
+          "term_text": "September 19, 1881 [ o ] – March 4, 1885",
+          "party": "Republican",
+          "elections": [
+            "–"
+          ],
+          "vice_president": "Vacant throughout presidency"
+        }
+      ]
+    },
+    {
+      "name": "Grover Cleveland",
+      "number": 22,
+      "terms": [
+        {
+          "term_text": "March 4, 1885 – March 4, 1889",
+          "party": "Democratic",
+          "elections": [
+            "1884",
+            "Vacant after November 25, 1885"
+          ],
+          "vice_president": "Thomas A. Hendricks [ e ]"
+        },
+        {
+          "term_text": "March 4, 1893 – March 4, 1897",
+          "party": "Democratic",
+          "elections": [
+            "1892"
+          ],
+          "vice_president": "Adlai Stevenson I"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Harrison",
+      "number": 23,
+      "terms": [
+        {
+          "term_text": "March 4, 1889 – March 4, 1893",
+          "party": "Republican",
+          "elections": [
+            "1888"
+          ],
+          "vice_president": "Levi P. Morton"
+        }
+      ]
+    },
+    {
+      "name": "William McKinley",
+      "number": 25,
+      "terms": [
+        {
+          "term_text": "March 4, 1897 – September 14, 1901 [ e ]",
+          "party": "Republican",
+          "elections": [
+            "1896",
+            "Vacant after November 21, 1899",
+            "1900"
+          ],
+          "vice_president": "Garret Hobart [ e ]"
+        }
+      ]
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "number": 26,
+      "terms": [
+        {
+          "term_text": "September 14, 1901 [ p ] – March 4, 1909",
+          "party": "Republican",
+          "elections": [
+            "–",
+            "1904"
+          ],
+          "vice_president": "Vacant through March 4, 1905"
+        }
+      ]
+    },
+    {
+      "name": "William Howard Taft",
+      "number": 27,
+      "terms": [
+        {
+          "term_text": "March 4, 1909 – March 4, 1913",
+          "party": "Republican",
+          "elections": [
+            "1908",
+            "Vacant after October 30, 1912"
+          ],
+          "vice_president": "James S. Sherman [ e ]"
+        }
+      ]
+    },
+    {
+      "name": "Woodrow Wilson",
+      "number": 28,
+      "terms": [
+        {
+          "term_text": "March 4, 1913 – March 4, 1921",
+          "party": "Democratic",
+          "elections": [
+            "1912",
+            "1916"
+          ],
+          "vice_president": "Thomas R. Marshall"
+        }
+      ]
+    },
+    {
+      "name": "Warren G. Harding",
+      "number": 29,
+      "terms": [
+        {
+          "term_text": "March 4, 1921 – August 2, 1923 [ e ]",
+          "party": "Republican",
+          "elections": [
+            "1920"
+          ],
+          "vice_president": "Calvin Coolidge"
+        }
+      ]
+    },
+    {
+      "name": "Calvin Coolidge",
+      "number": 30,
+      "terms": [
+        {
+          "term_text": "August 2, 1923 [ q ] – March 4, 1929",
+          "party": "Republican",
+          "elections": [
+            "–",
+            "1924"
+          ],
+          "vice_president": "Vacant through March 4, 1925"
+        }
+      ]
+    },
+    {
+      "name": "Herbert Hoover",
+      "number": 31,
+      "terms": [
+        {
+          "term_text": "March 4, 1929 – March 4, 1933",
+          "party": "Republican",
+          "elections": [
+            "1928"
+          ],
+          "vice_president": "Charles Curtis"
+        }
+      ]
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "number": 32,
+      "terms": [
+        {
+          "term_text": "March 4, 1933 – April 12, 1945 [ e ]",
+          "party": "Democratic",
+          "elections": [
+            "1932",
+            "1936",
+            "1940",
+            "1944"
+          ],
+          "vice_president": "John Nance Garner"
+        }
+      ]
+    },
+    {
+      "name": "Harry S. Truman",
+      "number": 33,
+      "terms": [
+        {
+          "term_text": "April 12, 1945 [ r ] – January 20, 1953",
+          "party": "Democratic",
+          "elections": [
+            "–",
+            "1948"
+          ],
+          "vice_president": "Vacant through January 20, 1949"
+        }
+      ]
+    },
+    {
+      "name": "Dwight D. Eisenhower",
+      "number": 34,
+      "terms": [
+        {
+          "term_text": "January 20, 1953 – January 20, 1961",
+          "party": "Republican",
+          "elections": [
+            "1952",
+            "1956"
+          ],
+          "vice_president": "Richard Nixon"
+        }
+      ]
+    },
+    {
+      "name": "John F. Kennedy",
+      "number": 35,
+      "terms": [
+        {
+          "term_text": "January 20, 1961 – November 22, 1963 [ e ]",
+          "party": "Democratic",
+          "elections": [
+            "1960"
+          ],
+          "vice_president": "Lyndon B. Johnson"
+        }
+      ]
+    },
+    {
+      "name": "Lyndon B. Johnson",
+      "number": 36,
+      "terms": [
+        {
+          "term_text": "November 22, 1963 [ s ] – January 20, 1969",
+          "party": "Democratic",
+          "elections": [
+            "–",
+            "1964"
+          ],
+          "vice_president": "Vacant through January 20, 1965"
+        }
+      ]
+    },
+    {
+      "name": "Richard Nixon",
+      "number": 37,
+      "terms": [
+        {
+          "term_text": "January 20, 1969 – August 9, 1974 [ h ]",
+          "party": "Republican",
+          "elections": [
+            "1968",
+            "1972",
+            "Vacant: October 10 – December 6, 1973",
+            "Gerald Ford [ t ]"
+          ],
+          "vice_president": "Spiro Agnew [ h ]"
+        }
+      ]
+    },
+    {
+      "name": "Gerald Ford",
+      "number": 38,
+      "terms": [
+        {
+          "term_text": "August 9, 1974 [ u ] – January 20, 1977",
+          "party": "Republican",
+          "elections": [
+            "–",
+            "Nelson Rockefeller [ t ]"
+          ],
+          "vice_president": "Vacant through December 19, 1974"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Carter",
+      "number": 39,
+      "terms": [
+        {
+          "term_text": "January 20, 1977 – January 20, 1981",
+          "party": "Democratic",
+          "elections": [
+            "1976"
+          ],
+          "vice_president": "Walter Mondale"
+        }
+      ]
+    },
+    {
+      "name": "Ronald Reagan",
+      "number": 40,
+      "terms": [
+        {
+          "term_text": "January 20, 1981 – January 20, 1989",
+          "party": "Republican",
+          "elections": [
+            "1980",
+            "1984"
+          ],
+          "vice_president": "George H. W. Bush"
+        }
+      ]
+    },
+    {
+      "name": "George H. W. Bush",
+      "number": 41,
+      "terms": [
+        {
+          "term_text": "January 20, 1989 – January 20, 1993",
+          "party": "Republican",
+          "elections": [
+            "1988"
+          ],
+          "vice_president": "Dan Quayle"
+        }
+      ]
+    },
+    {
+      "name": "Bill Clinton",
+      "number": 42,
+      "terms": [
+        {
+          "term_text": "January 20, 1993 – January 20, 2001",
+          "party": "Democratic",
+          "elections": [
+            "1992",
+            "1996"
+          ],
+          "vice_president": "Al Gore"
+        }
+      ]
+    },
+    {
+      "name": "George W. Bush",
+      "number": 43,
+      "terms": [
+        {
+          "term_text": "January 20, 2001 – January 20, 2009",
+          "party": "Republican",
+          "elections": [
+            "2000",
+            "2004"
+          ],
+          "vice_president": "Dick Cheney"
+        }
+      ]
+    },
+    {
+      "name": "Barack Obama",
+      "number": 44,
+      "terms": [
+        {
+          "term_text": "January 20, 2009 – January 20, 2017",
+          "party": "Democratic",
+          "elections": [
+            "2008",
+            "2012"
+          ],
+          "vice_president": "Joe Biden"
+        }
+      ]
+    },
+    {
+      "name": "Donald Trump",
+      "number": 45,
+      "terms": [
+        {
+          "term_text": "January 20, 2017 – January 20, 2021",
+          "party": "Republican",
+          "elections": [
+            "2016"
+          ],
+          "vice_president": "Mike Pence"
+        },
+        {
+          "term_text": "January 20, 2025 – Incumbent",
+          "party": "Republican",
+          "elections": [
+            "2024"
+          ],
+          "vice_president": "JD Vance"
+        }
+      ]
+    },
+    {
+      "name": "Joe Biden",
+      "number": 46,
+      "terms": [
+        {
+          "term_text": "January 20, 2021 – January 20, 2025",
+          "party": "Democratic",
+          "elections": [
+            "2020"
+          ],
+          "vice_president": "Kamala Harris"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "datasets": [
+    {
+      "name": "Iris",
+      "area": "Biology",
+      "task": "Classification",
+      "types": "Tabular",
+      "instances": 150,
+      "features": 4,
+      "feature_types": "Real",
+      "url_folder": "../machine-learning-databases/iris/"
+    },
+    {
+      "name": "Heart Disease",
+      "area": "Health and Medicine",
+      "task": "Classification",
+      "types": "Multivariate",
+      "instances": 303,
+      "features": 13,
+      "feature_types": "Categorical, Integer, Real",
+      "url_folder": "../machine-learning-databases/heart-disease/"
+    },
+    {
+      "name": "Wine Quality",
+      "area": "Business",
+      "task": "Classification, Regression",
+      "types": "Multivariate",
+      "instances": 4898,
+      "features": 12,
+      "feature_types": "Real",
+      "url_folder": "../machine-learning-databases/wine-quality/"
+    },
+    {
+      "name": "Breast Cancer Wisconsin (Diagnostic)",
+      "area": "Health and Medicine",
+      "task": "Classification",
+      "types": "Multivariate",
+      "instances": 569,
+      "features": 30,
+      "feature_types": "Real",
+      "url_folder": "../machine-learning-databases/breast-cancer-wisconsin/"
+    },
+    {
+      "name": "Bank Marketing",
+      "area": "Business",
+      "task": "Classification",
+      "types": "Multivariate",
+      "instances": 45211,
+      "features": 17,
+      "feature_types": "Categorical, Integer",
+      "url_folder": "../machine-learning-databases/00222/"
+    },
+    {
+      "name": "Adult",
+      "area": "Social Science",
+      "task": "Classification",
+      "types": "Multivariate",
+      "instances": 48842,
+      "features": 14,
+      "feature_types": "Categorical, Integer",
+      "url_folder": "../machine-learning-databases/adult/"
+    },
+    {
+      "name": "Student Performance",
+      "area": "Social Science",
+      "task": "Classification, Regression",
+      "types": "Multivariate",
+      "instances": 649,
+      "features": 33,
+      "feature_types": "Integer",
+      "url_folder": "../machine-learning-databases/00320/"
+    },
+    {
+      "name": "Online Retail",
+      "area": "Business",
+      "task": "Classification, Clustering",
+      "types": "Multivariate, Sequential, Time-Series",
+      "instances": 541909,
+      "features": 6,
+      "feature_types": "Integer, Real",
+      "url_folder": "../machine-learning-databases/00352/"
+    },
+    {
+      "name": "Wine",
+      "area": "Physics and Chemistry",
+      "task": "Classification",
+      "types": "Tabular",
+      "instances": 178,
+      "features": 13,
+      "feature_types": "Integer, Real",
+      "url_folder": "../machine-learning-databases/wine/"
+    },
+    {
+      "name": "Car Evaluation",
+      "area": "Other",
+      "task": "Classification",
+      "types": "Multivariate",
+      "instances": 1728,
+      "features": 6,
+      "feature_types": "Categorical",
+      "url_folder": "../machine-learning-databases/car/"
+    }
+  ]
+}
